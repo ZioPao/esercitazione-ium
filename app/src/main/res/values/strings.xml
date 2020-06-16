@@ -1,0 +1,25 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Login</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="registerTip">"<u>Non hai un account? Registrati!</u>"</string>
+    <string name="loginTip"><u>Hai già un account? Loggati!</u></string>
+    <string name="changePassword"><u>Modifica la password</u></string>
+
+
+    <string name="welcomeString">Benvenuto carissimo %s!</string>
+
+    <string name="usernameString">Username:</string>
+    <string name="passwordString">Password:</string>
+    <string name="cityString">Città:</string>
+    <string name="dateString">Data di nascita:</string>
+
+    <string name="usernameShowString">%s</string>
+    <string name="passwordShowString">%s</string>
+    <string name="cityShowString">%s</string>
+    <string name="dateShowString">%s</string>
+
+
+
+</resources>
